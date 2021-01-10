@@ -1,0 +1,33 @@
+.name{
+    display: inline-flex;
+}
+h3{
+    color: white;
+}
+.user-profile{
+    height: 150px;
+    width: 150px;
+    align-self: center;
+    margin: 10px;
+    border-radius: 100px;
+    background: lightseagreen;
+    padding: 10px;
+}
+.card-header{
+    text-align: center;
+    padding: 0px;
+    width: 100%;
+}
+.username-alt{
+    color: rgb(8, 85, 110);
+    font-size: larger;
+    font-weight: 700;
+}
+.detail-btn{
+    text-align: center;
+}
+address{
+    color: rgb(116, 114, 114);
+    font-size: medium;
+    font-weight: 500;
+}
